@@ -1,0 +1,5 @@
+site_name: 中科大不完全入学指南 USTCGUIDE mkdocs 版
+
+theme:
+
+  name: material

@@ -3,3 +3,76 @@ site_name: 中科大不完全入学指南 USTCGUIDE mkdocs 版
 theme:
 
   name: material
+
+  language: zh
+
+
+nav:
+
+  - "README.md"
+
+  - "SUMMARY.md"
+
+  - 开始:
+    - "README.md"
+    - "开始/perface1.md"
+    - "开始/sheng-ming-geng-xin-ri-zhi-bian-zhe-ming-dan.md"
+    - USTCGUIDE系列:
+      - 简介: "开始/USTCGUIDE系列/README.md"
+      - "开始/USTCGUIDE系列/coursedata.md"
+      - "开始/USTCGUIDE系列/ustc-sheng-cun-shou-ce-todo.md"
+  
+  - 学习:
+    - "学习/jiao-wu-xi-tong-xuan-ke.md"
+    - "学习/pei-yang-fang-an-ke-cheng-ti-dai-jiao-xue-ri-li.md"
+    - "学习/cheng-ji.md"
+    - "学习/fang-qi-xiu-du-fang-qi-cheng-ji-ji-ge-chong-xiu.md"
+    - "学习/zi-xi-chang-suo-yan-tao-shi.md"
+    - "学习/zhuan-zhuan-ye-fen-liu-ge-xing-hua.md"
+    - "学习/yi-xie-gong-ju.md"
+    - "学习/wo-ke-xiao-dao-xiao-xi.md"
+
+  - 校园一卡通:
+    - "校园一卡通/yi-ka-tong-shi-shen-me.md"
+    - "校园一卡通/chong-zhi-fang-shi.md"
+    - "校园一卡通/gua-shi-yu-bu-ban.md"
+    - "校园一卡通/yong-shui-ji-fei.md"
+    - "校园一卡通/xian-zhi-xiao-fei.md"
+    - "校园一卡通/yi-ka-tong-dui-ying-shou-ji-hao-de-cha-xun-yu-xiu-gai.md"
+    - "校园一卡通/xiao-gong-ju-yu-wen-xin-ti-shi.md"
+
+  - 住宿、通行与通讯:
+    - "住宿、通行与通讯/zhu-su-zhong-qu.md"
+    - "住宿、通行与通讯/tong-xing.md"
+    - "住宿、通行与通讯/you-zheng-tong-xun.md"
+
+  - 体育、健康与娱乐:
+    - "体育、健康与娱乐/ti-yu-huo-dong-chang-suo.md"
+    - "体育、健康与娱乐/yi-yuan-yu-jian-kang.md"
+    - "体育、健康与娱乐/she-tuan-yu-yu-le.md"
+
+  - 购物与饮食:
+    - "购物与饮食/ben-jie-sheng-ming.md"
+    - 校内汇总:
+      - 概述: "购物与饮食/xiao-nei-hui-zong/README.md"
+      - "购物与饮食/xiao-nei-hui-zong/zhong-qu.md"
+      - "购物与饮食/xiao-nei-hui-zong/dong-qu.md"
+      - "购物与饮食/xiao-nei-hui-zong/xi-qu.md"
+      - "购物与饮食/xiao-nei-hui-zong/gao-xin-qu.md"
+    - "购物与饮食/zao-fan-te-ji.md"
+    - "购物与饮食/xiao-nei-shi-tang-lian-xi-fang-shi-ji-wei-quan.md"
+    - "购物与饮食/xue-xiao-fu-jin-yin-shi.md"
+    - "购物与饮食/xiao-wai-gou-wu-za-tan.md"
+    - "购物与饮食/fei-xi-lu-ye-xiao.md"
+    - "购物与饮食/nai-cha-dian.md"
+    - "购物与饮食/wai-mai.md"
+  
+  - 入学考试、英才班、军训:
+    - "入学考试、英才班、军训/ru-xue-kao-shi.md"
+    - "入学考试、英才班、军训/ying-cai-ban.md"
+    - "入学考试、英才班、军训/jun-xun-yu-jun-shi-li-lun-ke.md"
+
+  - 致谢与结语:
+    - "致谢与结语/jie-yu.md"
+  
+
